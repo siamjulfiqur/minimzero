@@ -1,1 +1,1 @@
-# minimzero
+# minim
